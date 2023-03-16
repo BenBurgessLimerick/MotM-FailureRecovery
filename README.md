@@ -10,7 +10,7 @@ A video comparing our proposed method with two baselines on an example task is p
 
 We conduct experiments on three scenarios. In all cases, our method reduces total task time by making as much progress as possible towards the drop point, while still ensuring that the object is kept within reach until the grasp is completed. 
 
-![Obstructed Turn](gifs/ObstructedTurn_Ours_6s.gif) 
+![Obstructed Turn](gifs/ObstructedTurn_Ours_6s_big.gif) 
 
 ![Line](gifs/Line_Ours_4s.gif) 
 

@@ -4,6 +4,10 @@ In [our previous work](https://benburgesslimerick.github.io/ManipulationOnTheMov
 
 In this work we explore a reactive base control system that enables graceful recovery from unexpected delays during manipulation on-the-move tasks. The system continuously evaluates candidate base poses near the target and chooses a goal based on the current state of the robot, location of the immediate target, as well as the next target in a multi-step task. 
 
+The video below demonstrates our method in a real-world scenario:
+
+![Real-World Failure Recovery](gifs/FailureRecovery.gif) 
+
 A video comparing our proposed method with two baselines on an example task is presented here:
 
 [![Baseline Comparison](images/VideoLink.JPG)](https://youtu.be/T5_SeSubFCE "Baseline Comparison")
